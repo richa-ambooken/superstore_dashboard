@@ -1,0 +1,30 @@
+{
+  "Category|Furniture": {
+    "MAE": 5465.94,
+    "RMSE": 6132.57
+  },
+  "Category|Office Supplies": {
+    "MAE": 4314.39,
+    "RMSE": 4929.68
+  },
+  "Category|Technology": {
+    "MAE": 12668.52,
+    "RMSE": 12856.57
+  },
+  "Region|Central": {
+    "MAE": 2553.43,
+    "RMSE": 2813.3
+  },
+  "Region|East": {
+    "MAE": 12780.89,
+    "RMSE": 14247.63
+  },
+  "Region|South": {
+    "MAE": 11289.45,
+    "RMSE": 12435.84
+  },
+  "Region|West": {
+    "MAE": 3853.21,
+    "RMSE": 5196.3
+  }
+}
