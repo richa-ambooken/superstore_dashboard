@@ -1,4 +1,5 @@
 # Superstore Sales Intelligence Dashboard
+LINK : https://superstoredashboard-va9mpzvmxj2hgrbjauazfb.streamlit.app/
 
 A 4-page Streamlit app built on the Superstore order dataset (`data/train.csv`):
 
@@ -54,10 +55,6 @@ Streamlit Cloud will install everything from `requirements.txt` and launch the a
 https://your-app-name.streamlit.app
 ```
 
-That link is what you submit.
-
-**Step 3 — Verify before submitting**
-Open the live link and click through all four pages (sidebar navigation) to confirm charts and tables render correctly.
 
 ---
 
